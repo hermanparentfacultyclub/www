@@ -1,7 +1,7 @@
 title: "Herman Parent Faculty Club"
 email: "hello@hermanpfc.org"
 description: "Connecting parents, supporting students."
-baseurl: "www" # leave blank unless site is served from a subpath
+baseurl: "" # leave blank unless site is served from a subpath
 url: "https://hermanparentfacultyclub.github.io/"     # your production URL, e.g. https://your-org.github.io
 markdown: kramdown
 permalink: pretty
