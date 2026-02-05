@@ -5,3 +5,4 @@ baseurl: "" # leave blank unless site is served from a subpath
 url: "https://hermanparentfacultyclub.github.io/"     # your production URL, e.g. https://your-org.github.io
 markdown: kramdown
 permalink: pretty
+remote_theme: "mmistakes/minimal-mistakes"
