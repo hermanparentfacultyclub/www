@@ -6,3 +6,5 @@ url: "https://hermanparentfacultyclub.github.io/"     # your production URL, e.g
 markdown: kramdown
 permalink: pretty
 remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
