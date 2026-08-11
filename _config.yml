@@ -1,7 +1,7 @@
 title: "Herman Parent Faculty Club"
 separator: |
 email: "hello@hermanpfc.org"
-description: "Connecting parents, supporting students."
+description: "Connecting parents, supporting students"
 baseurl: "" # leave blank unless site is served from a subpath
 url: "https://hermanparentfacultyclub.github.io/"     # your production URL, e.g. https://your-org.github.io
 permalink: pretty
@@ -9,7 +9,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 locale                   : "en-US"
-title                    : "Herman Parent Faculty Club San Jose, Californiaa"
+title                    : "Herman Parent Faculty Club San Jose"
 title_separator          : "|"
 subtitle                 : "Herman Intermediate School and Adventure STEM"
 description              : "Connecting parents, faculty and students of Herman Intermediate School and Adventure STEM in San Jose, California"
