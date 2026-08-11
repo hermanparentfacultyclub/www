@@ -6,7 +6,7 @@ baseurl: "" # leave blank unless site is served from a subpath
 url: "https://hermanparentfacultyclub.github.io/"     # your production URL, e.g. https://your-org.github.io
 permalink: pretty
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 locale                   : "en-US"
 title                    : "Herman Parent Faculty Club of Herman Intermediate School and Adventure STEM"
@@ -25,7 +25,7 @@ bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
-# Social Sharing
+# Social Sharing`
 twitter:
   username               :
 facebook:
@@ -42,9 +42,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : google # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
+    tracking_id          : G-X4ZRFEGRRD
     anonymize_ip         : # true, false (default)
 
 
