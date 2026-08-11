@@ -2,7 +2,7 @@
 
 layout: page
 title: Donate
-permalink: /donate/
+permalink: https://hermanpfc.org/donate/
 description: Support the Herman Parent Faculty Club and help fund programs, activities, and experiences for Herman students.
 ----------------------------------------------------------------------------------------------------------------------------
 
