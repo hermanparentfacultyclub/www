@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Donate"
 permalink: /donate/
 description: "Support the Herman Parent Faculty Club and help fund programs, activities, and experiences for Herman students."
