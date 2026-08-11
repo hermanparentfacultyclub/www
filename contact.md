@@ -32,10 +32,7 @@ title: Contact
 <section aria-labelledby="other-contacts">
   <h2 id="other-contacts">Other ways to reach us</h2>
   <address>
-    {{ site.title }} HQ<br />
-    123 School Lane<br />
-    City, State ZIP<br />
+    {{ site.title }}<br />
     Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a><br />
-    Phone: (555) 555-0123
   </address>
 </section>
