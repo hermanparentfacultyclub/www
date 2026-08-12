@@ -47,7 +47,7 @@ analytics:
     tracking_id          : G-X4ZRFEGRRD
     anonymize_ip         : true  #, false (default)
 
-favicon: "/assets/favicon.png"
+favicon: "/assets/images/favicon.png"
 
 # Site Footer
 footer:
