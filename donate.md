@@ -62,16 +62,8 @@ Your donation may go even further if your employer offers a charitable gift-matc
 
 Check with your employer to see whether donations to the **Herman Parent Faculty Club** are eligible for matching.
 
-<!--
-OPTIONAL:
-Once the PFC's nonprofit/EIN information is confirmed,
-add it here to make employer matching easier.
-
-Example:
-
 **Organization:** Herman Parent Faculty Club  
-**EIN:** XX-XXXXXXX
--->
+**EIN:** 77-0258464
 
 ## Thank You for Supporting Herman
 
