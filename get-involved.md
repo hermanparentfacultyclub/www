@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Get Involved
+title: Get Involved | Volunteer with Herman PFC, San Jose
 ---
 <h1>Get Involved</h1>
 
@@ -13,7 +13,6 @@ title: Get Involved
     <li>Coordinate with the class/faculty lead.</li>
   </ol>
   <p><a class="btn" href="{{'https://docs.google.com/forms/d/e/1FAIpQLSdp2hEPDFT147aUDZFxp1I7Xt4eCWk8Ifn1UCkuqR1X2S_SSg/viewform?usp=send_form&pli=1&authuser=0' | absolute_url }}">Sign up to volunteer</a></p>
-
   
   *No background check is needed to volunteer for anything happening after the school day ends. If you're helping out on campus while school is in session, Oak Grove School District requires a completed background check first — <a href="mailto:hello@hermanpfc.org">reach out</a> and we'll help you get that sorted.*
 
