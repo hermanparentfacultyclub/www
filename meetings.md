@@ -13,16 +13,14 @@ Our Parent Faculty Club (PFC) holds a monthly virtual community meeting for Herm
 
 ## 2026/2027 Meeting Schedule
 
-| Month | Date |
-| --- | --- |
-| September | September 9, 2026 |
-| October | October 14, 2026 |
-| November | November 18, 2026 |
-| January | January 13, 2027 |
-| February | February 10, 2027 |
-| March | March 10, 2027 |
-| April | April 21, 2027 |
-| May | May 19, 2027 |
+- **September 9, 2026**
+- **October 14, 2026**
+- **November 18, 2026**
+- **January 13, 2027**
+- **February 10, 2027**
+- **March 10, 2027**
+- **April 21, 2027**
+- **May 19, 2027**
 
 Dates are subject to change. Watch ParentSquare for reminders and that month's Google Meet link before each session.
 
