@@ -12,13 +12,13 @@ title: Get Involved
     <li>Attend an orientation if needed.</li>
     <li>Coordinate with the class/faculty lead.</li>
   </ol>
-  <p><a class="btn" href="{{ '/contact/' | relative_url }}">Sign up to volunteer</a></p>
+  <p><a class="btn" href="{{'https://docs.google.com/forms/d/e/1FAIpQLSdp2hEPDFT147aUDZFxp1I7Xt4eCWk8Ifn1UCkuqR1X2S_SSg/viewform?usp=send_form&pli=1&authuser=0' | absolute_url }}">Sign up to volunteer</a></p>
 </section>
 
 <section aria-labelledby="donate">
   <h2 id="donate">Donate</h2>
   <p>Your donations support school programs, supplies, and events. We accept one-time and recurring contributions.</p>
-  <p class="donate-cta"><a class="btn donate" href="#">Donate Now</a></p>
+  <p class="donate-cta"><a class="btn donate" href="{{'/donate/' | relative_url}}">Donate Now</a></p>
   <p class="muted">For in-kind donations (supplies, books), email us for details.</p>
 </section>
 
