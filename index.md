@@ -5,7 +5,7 @@ title: Home
 <section class="hero" aria-labelledby="hero-title">
   <h1 id="hero-title">Connecting parents. Supporting students.</h1>
   <p class="lede">The Herman Parent Faculty Club supports our school community with events, fundraising, and volunteer-led programs.</p>
-  <p><a class="btn" href="{{ '/get-involved/' | relative_url }}">Get Involved</a> <a class="btn outline" href="{{ '/programs/' | relative_url }}">Our Programs</a></p>
+  <p><a class="btn outline" href="{{ '/get-involved/' | relative_url }}">Get Involved</a> <a class="btn outline" href="{{ '/programs/' | relative_url }}">Our Programs</a><a class="btn outline" href="{{ '/meetings/' | relative_url }}">Meetings</a></p>
 </section>
 
 <section aria-labelledby="impact" class="cards">
