@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Herman Parent Faculty Club
 ---
 <section class="hero" aria-labelledby="hero-title">
   <h1 id="hero-title">Connecting parents. Supporting students.</h1>
