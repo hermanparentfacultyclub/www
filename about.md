@@ -5,6 +5,8 @@ layout: default
 permalink: /about/
 ---
 
+# About Herman PFC
+
 ## One School, Two Communities
 
 Leonard Herman Intermediate School is a single school site that is home to two learning communities: the general Herman program and AdVENTURE STEM, a grades 5 through 8 project based STEM program option within the Oak Grove School District. AdVENTURE STEM students come from across the district, but they share the same campus, staff, events, and PFC as every other Herman student. Throughout this page, "Herman Intermediate School and AdVENTURE STEM" is used to make that shared community clear, and every family, student, and staff member from either program is equally part of PFC.
