@@ -4,7 +4,7 @@ title: Herman Parent Faculty Club
 ---
 <section class="hero" aria-labelledby="hero-title">
   <h1 id="hero-title">Connecting parents. Supporting students.</h1>
-  <p class="lede">The Herman Parent Faculty Club supports our school community with events, fundraising, and volunteer-led programs.</p>
+  <p class="lede">The Herman Parent Faculty Club supports the Herman Intermediate and AdVENTURE STEM school communities with events, fundraising, and volunteer-led programs.</p>
   <p><a class="btn" href="{{ '/get-involved/' | relative_url }}">Get Involved</a> <a class="btn" href="{{ '/meetings/' | relative_url }}">Meetings</a></p>
 </section>
 
@@ -13,7 +13,7 @@ title: Herman Parent Faculty Club
   <div class="card-grid">
     <article class="card">
       <h3>Students supported</h3>
-      <p>Programs and events that directly benefit our student body.</p>
+      <p>Programs and events that directly benefit our Herman Intermediate and AdVENTURE STEM student body.</p>
     </article>
     <article class="card">
       <h3>Volunteers</h3>
@@ -21,7 +21,7 @@ title: Herman Parent Faculty Club
     </article>
     <article class="card">
       <h3>Community events</h3>
-      <p>Family nights, fundraisers, and school spirit activities each year.</p>
+      <p>Family nights, fundraisers, and school spirit activities each year for Herman Intermediate and AdVENTURE STEM.</p>
     </article>
   </div>
 </section>
