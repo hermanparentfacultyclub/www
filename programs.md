@@ -1,5 +1,6 @@
 ---
-title: "Programs"
+title: "Programs | Herman PFC Programs and Fundraising, San Jose"
+description: "See how Herman PFC supports Herman Intermediate School and AdVENTURE STEM: Charity Fair, Student of the Month, Staff Appreciation, library funding, and more."
 layout: default
 permalink: /programs/
 ---
